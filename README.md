@@ -1,4 +1,4 @@
 # odin-admin-dashboard
 An admin dashboard inspired by TOP
 
-All written by Laurits S Madsen aka DGLaurits
+All written by Laurits S Madsen
